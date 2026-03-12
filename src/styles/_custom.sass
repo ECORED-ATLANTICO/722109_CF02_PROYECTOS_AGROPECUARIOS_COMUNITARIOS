@@ -19,6 +19,7 @@
 ///////////CUSTOM BANNER PRINCIPAL E INTERNO/////////////
 .banner-principal .tarjeta
   background-position: left 50% !important
+  background-color: #EBFCF5
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: white !important
@@ -132,9 +133,11 @@ figcaption
 
 .crd--avatarHorizontal-left-borde-tarjeta::before
   background-image: url(../assets/curso/temas/intro/bg.png) !important
-  background-color: #CCF9E6
+  background-color: #E2F3F8
   border-radius: 10px
   box-shadow: 4px 4px 6px -2px rgba(128, 128, 128, 16%)
+  background-size: cover
+  background-repeat: no-repeat
 
 .tarjeta-sombra
   background-color: #CCF9E6
@@ -416,3 +419,50 @@ figcaption
 .tabs-a.color-secundario .tabs-a__tab__selected
 
   background-color: #ADECD1 !important
+
+.h-100
+  height: 100%
+
+.img-85
+  max-width: 85px
+  margin: 0 auto
+
+.position-absolute
+  position: absolute !important
+
+.tarjeta-label__icon
+  top: 50%
+  left: 0
+  transform: translate(-50%, -50%)
+
+.custom-mh
+  height: -webkit-fill-available
+
+.bg-full-width
+  margin: 0 -3em
+  padding: 0 3rem
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: bottom
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 3rem
+    padding-right: 3rem
+
+  // ---- Subtitulos ----- //
+.subtitle
+  // background: #F1F3FB
+  // background-color: #F1F3FB degradado D9EAFB -> ECF5FD 
+  background: linear-gradient(to right, #D9EAFB, #ECF5FD)
+  background-size: cover
+  background-position: right
+  border-radius: 0px 50px 0px 0px
+  display: inline-block
+  padding: 10px 20px 10px 40px
+  padding-right: 40px
+  position: relative
+
+  .image
+    position: absolute
+    width: 40px
+    top: -15px
+    left: -5px

@@ -76,15 +76,21 @@
         strong(style="color: #0B481E") Matriz de Marco Lógico (MML).  
         span Si bien la matriz es destacable, el enfoque es más completo, pues recoge instrumentos desde el análisis original hasta el análisis prospectivo del proyecto. La MML es el producto de la aplicación del método, que puede visualizarse en dos etapas o fases claramente diferenciadas:
 
-    .row.my-4.align-items-center
-      .col-lg-12.my-2.m-auto
-        .row.my-2.text-center.justify-content-center 
-          .col-lg-5.my-2(data-aos="fade-up-left")
-            div.py-4(style="background: #D8E9FB; border-radius:10px")
-              p.mb-0 <strong>1.</strong> El análisis causal o identificación de problemas y soluciones
-          .col-lg-5.my-2(data-aos="fade-up-right")
-            div.py-4(style="background: #D8E9FB; border-radius:10px")
-              p.mb-0 <strong>2.</strong> La planificación o plan operativo
+    .row.align-items-center.mb-4
+      .col-lg-12
+        .row.align-items-stretch.justify-content-center
+          .col-md-6.col-lg-5
+            .tarjeta-container.mb-4.custom-mh
+              .position-relative.bg-color-1.p-3.rounded-4.tarjeta-label.custom-mh.ms-4.d-flex.align-items-center
+                p.p-2.mb-0 <b>1.</b> El análisis causal o identificación de problemas y soluciones.
+          
+          .col-md-6.col-lg-5
+            .tarjeta-container.mb-4.custom-mh
+              .position-relative.bg-color-1.p-3.rounded-4.tarjeta-label.custom-mh.ms-4.d-flex.align-items-center
+                p.p-2.mb-0 <b>2.</b> La planificación o plan operativo.
+          
+
+
 
     TabsB.color-acento-contenido.my-4(data-aos="zoom-in")(style="background: #FFF4EC")
       .tarjeta.p-4.bgr2(titulo="Etapa de análisis" :icono="require('@/assets/curso/temas/tema1/img5.svg')")
@@ -113,7 +119,7 @@
                   span Descargar
                   i.fas.fa-file-download
 
-  </template>
+</template>
 
 <script>
 export default {

@@ -104,7 +104,7 @@
           figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía de proyectos del DNP (2016).
     p Como tercer paso, los autores de la guía del ejemplo del DNP recomiendan realizar un filtro de las actividades, determinando su <strong>viabilidad técnica, financiera o legal</strong> Luego de seleccionadas las actividades y teniendo en cuenta su compatibilidad, se llega a las siguientes conclusiones:
 
-    .row.my-3.align-items-center
+    .row.my-3.align-items-center.mb-4
       .col-lg-12.crd.crd--avatarHorizontal-left-bgr2.py-3.mb-3(data-aos="fade-right")
         .row.align-items-center
           .col-auto(style="z-index:1")
@@ -165,19 +165,26 @@
                   p.m-0.text-bold Alternativa
                   span Implementación del proceso de aprovechamiento de residuos sólidos domiciliarios mediante separación de materiales y construcción de una estación de vaporización.
     
-    .row.align-items-center.p-4.my-5(style="background: #FFF6DE; border-radius: 20px")
-      .col-lg-6
-        .mb-0 Como aclaración, aunque la situación ideal parece que conlleva la atención a todas y cada una de las causas identificadas, esto no es estrictamente necesario (DNP, 2016). También es importante tener en cuenta la forma correcta de redactar objetivos siguiendo la regla general:
-      .col-lg-6
-        figure
-          img(src='@/assets/curso/temas/tema2/img72.svg', alt='Imagen decorativa' width="64px" height="64px")
+    .row.align-items-center.justify-content-center.mb-4
+      .col-md-12.col-lg-10.mx-auto
+        .row.align-items-center.mb-5
+          div(style="background: #FFF6DE; border-radius: 20px").p-4
+            .row.justify-content-center.align-items-center
+              .col-lg-6
+                .mb-0 Como aclaración, aunque la situación ideal parece que conlleva la atención a todas y cada una de las causas identificadas, esto no es estrictamente necesario (DNP, 2016). También es importante tener en cuenta la forma correcta de redactar objetivos siguiendo la regla general:
+              .col-lg-6
+                figure
+                  img(src='@/assets/curso/temas/tema2/img72.svg', alt='Imagen decorativa' width="64px" height="64px")
     
-    .row.align-items-center.p-3.my-5(data-aos='flip-left')
-      .mt-4.px-5(style="background:#DEF7EC; border-radius: 20px")
-        .col-lg-12.m-auto(style='position:relative;top:-50px')
-          figure
-            img(src='@/assets/curso/temas/tema3/img73.svg', width='100px',height='100px', alt='Imagen decorativa')
-        p.position-relative(style="top:-30px") No siempre la selección de alternativas resulta de la manera que se ha descrito, algunas veces es más difícil identificar entre las diferentes opciones, por lo que se recomienda en este caso, la construcción de <strong>una matriz que ayude en esta evaluación</strong>; aunque no hay una forma estándar para esta y podemos encontrar varios modelos que se pueden adaptar a las necesidades del análisis buscando siempre <strong>la alternativa óptima, una selección objetiva y desde criterios múltiples.</strong>
+        
+    .row.align-items-center.justify-content-center.mb-5
+      .col-md-12.col-lg-10.mx-auto
+        .row.align-items-center(data-aos='flip-left')
+          .mt-4.px-5(style="background:#DEF7EC; border-radius: 20px")
+            .col-lg-12.m-auto(style='position:relative;top:-50px')
+              figure
+                img(src='@/assets/curso/temas/tema3/img73.svg', width='100px',height='100px', alt='Imagen decorativa')
+            p.position-relative(style="top:-30px") No siempre la selección de alternativas resulta de la manera que se ha descrito, algunas veces es más difícil identificar entre las diferentes opciones, por lo que se recomienda en este caso, la construcción de <strong>una matriz que ayude en esta evaluación</strong>; aunque no hay una forma estándar para esta y podemos encontrar varios modelos que se pueden adaptar a las necesidades del análisis buscando siempre <strong>la alternativa óptima, una selección objetiva y desde criterios múltiples.</strong>
 
     p.text-bold Un ejemplo de matriz de evaluación o selección, producto de la guía para la formulación de proyectos de la FAO en conjunto con el Ministerio de Desarrollo Agropecuario de Panamá en 2017, es el siguiente:
     .titulo-sexto.color-acento-contenido.mb-3
@@ -379,45 +386,59 @@
                 td
           figcaption.my-3.text-regular <strong>Nota.</strong>Tomado de la guía para la formulación de proyectos de inversión del sector agropecuario de la FAO, 2017.
     
-    .row.mt-5.mb-4.align-items-center
-      .col-auto
-        img(src='@/assets/curso/temas/tema2/img3.svg', alt='Imagen decorativa')
-      .col.px-0
-        h3.mb-0(data-aos="fade-left") Resumen narrativo del marco lógico
     
-    p.p-4 La primera columna de la MML es <strong>la síntesis del proyecto</strong>, empezando por las actividades, los productos que se entregarán y los resultados a corto, mediano y largo plazo <strong>(Ortegón et.al, 2005)</strong>. De ahí su importancia y la forma de realizar su lectura, que es de abajo hacia arriba. Las actividades provenientes del nivel tres no se encuentran normalmente incluidas en la MML, pero resulta muy útil considerarlas para <strong>alimentar la planeación operativa</strong> y los indicadores correspondientes serán objeto de este análisis posterior. El resumen narrativo corresponde a la primera columna de la matriz.
+    .row.mt-5.mb-2.align-items-center
+      //- Subtitulo
+      .align-items-center.justify-content-star
+        .div(data-aos="fade-left")
+          h3.subtitle.position-relative Resumen narrativo del marco lógico
+            img.image(src='@/assets/curso/temas/tema2/icon_subt.svg', alt='Imagen decorativa')
+    
+    p.mb-4 La primera columna de la MML es <strong>la síntesis del proyecto</strong>, empezando por las actividades, los productos que se entregarán y los resultados a corto, mediano y largo plazo <strong>(Ortegón et.al, 2005)</strong>. De ahí su importancia y la forma de realizar su lectura, que es de abajo hacia arriba. Las actividades provenientes del nivel tres no se encuentran normalmente incluidas en la MML, pero resulta muy útil considerarlas para <strong>alimentar la planeación operativa</strong> y los indicadores correspondientes serán objeto de este análisis posterior. El resumen narrativo corresponde a la primera columna de la matriz.
+
+
 
     .titulo-sexto.color-acento-botones.mb-3
-      h5 Tabla 11.
+      h5 Figura 10.
       span <em>Resumen narrativo del proyecto</em>
-    .row.my-3
-      .tarjeta--container.row.mb-5
-        .col-md.tarjeta.color-acento-botones.p-4.my-3(style='background: #D8E9FB')
-          p.text-bold.m-0 Fin - Objetivo general
-          | Aporte del proyecto en la solución, problema o satisfacción de una necesidad en el mediano o largo plazo.
-        .col-md.tarjeta.color-acento-botones.p-4.my-3(style='background: #FFEEBD')
-          p.text-bold.m-0 Propósito - Objetivo específico
-          | Resultado único esperado al concluir el proyecto.
-        .col-md.tarjeta.color-acento-botones.p-4.my-3(style='background: #D8E9FB')
-          p.text-bold.m-0 Resultados esperados - Componentes
-          | Productos y servicios que genera el proyecto y que se expresan como una realidad mejorada.
-        .col-md.tarjeta.color-acento-botones.p-4.my-3(style='background: #FFEEBD')
-          p.text-bold.m-0 Actividades
-          | Grupo de tareas principales requeridas para la producción de cada resultado o componente.
+    figure
+      img(src="@/assets/curso/temas/tema3/img99.svg", alt="En la relación  de las partes de la matriz se  conectan de la siguiente forma: Actividades a supuestas actividades- componentes, estas a su vez a los componentes, posteriormente a los supuestos componentes - propósito y del propósito a supuesto fin, y el fin a supuesto sobre sostenibilidad.").d-none.d-lg-block.d-md-none
+      img(src="@/assets/curso/temas/tema3/img99m.svg", alt="En la relación  de las partes de la matriz se  conectan de la siguiente forma: Actividades a supuestas actividades- componentes, estas a su vez a los componentes, posteriormente a los supuestos componentes - propósito y del propósito a supuesto fin, y el fin a supuesto sobre sostenibilidad.").d-block.d-lg-none.d-md-block
+      figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de la guía para la formulación de proyectos de inversión del sector agropecuario de la FAO, 2017.
+
+    //- .titulo-sexto.color-acento-botones.mb-3
+    //-   h5 Tabla 11.
+    //-   span <em>Resumen narrativo del proyecto</em>
+
+      
+    //- .row.my-3
+    //-   .tarjeta--container.row.mb-5
+    //-     .col-md.tarjeta.color-acento-botones.p-4.my-3(style='background: #D8E9FB')
+    //-       p.text-bold.m-0 Fin - Objetivo general
+    //-       | Aporte del proyecto en la solución, problema o satisfacción de una necesidad en el mediano o largo plazo.
+    //-     .col-md.tarjeta.color-acento-botones.p-4.my-3(style='background: #FFEEBD')
+    //-       p.text-bold.m-0 Propósito - Objetivo específico
+    //-       | Resultado único esperado al concluir el proyecto.
+    //-     .col-md.tarjeta.color-acento-botones.p-4.my-3(style='background: #D8E9FB')
+    //-       p.text-bold.m-0 Resultados esperados - Componentes
+    //-       | Productos y servicios que genera el proyecto y que se expresan como una realidad mejorada.
+    //-     .col-md.tarjeta.color-acento-botones.p-4.my-3(style='background: #FFEEBD')
+    //-       p.text-bold.m-0 Actividades
+    //-       | Grupo de tareas principales requeridas para la producción de cada resultado o componente.
     
-        figcaption.my-3.text-regular <strong>Nota</strong> Tomado de la guía para la formulación de proyectos de inversión del sector agropecuario de la FAO, 2017.
+    //-     figcaption.my-3.text-regular <strong>Nota</strong> Tomado de la guía para la formulación de proyectos de inversión del sector agropecuario de la FAO, 2017.
 
     Separador
     #t_3_3.titulo-segundo.color-acento-contenido
       h2(data-aos="fade-left") 3.3 Indicadores y medios de verificación
 
-      .row.align-items-center.p-3.my-5
-        .col-md-8.col-lg-4.mx-auto
-          figure 
-            img.my-3(src='@/assets/curso/temas/tema3/img10.png', alt='Imagen decorativa', style="max-width: 100%; height: auto;")
-        .col-md-12.col-lg-8.mt-4.mt-lg-0
-          p
-            | Los indicadores conforman la segunda columna de la MML. Son variables cualitativas o cuantitativas que concretan lo definido en el resumen narrativo del proyecto en cada uno de los niveles y dan cuenta de las metas a las que hay que llegar para culminar con éxito, por lo que se convierten en la brújula con la cual se orientan las actividades de gestión, el seguimiento y la evaluación. También dan medida del desempeño y alertan sobre situaciones atípicas. Si los indicadores se encuentran bien formulados, aseguran una buena gestión del proyecto y aportan los elementos necesarios para la toma correcta de decisiones gerenciales que seguramente serán necesarias en el transcurso de la ejecución. Un resultado puede ser medido por varios indicadores, pero el principio de eficiencia nos orienta hacia la construcción del mínimo necesario para la conclusión del logro de los objetivos (Ortegón et.al 2005).
+    .row.align-items-center.p-3.my-5
+      .col-md-8.col-lg-4.mx-auto
+        figure 
+          img.my-3(src='@/assets/curso/temas/tema3/img10.png', alt='Imagen decorativa', style="max-width: 100%; height: auto;")
+      .col-md-12.col-lg-8.mt-4.mt-lg-0
+        p
+          | Los indicadores conforman la segunda columna de la MML. Son variables cualitativas o cuantitativas que concretan lo definido en el resumen narrativo del proyecto en cada uno de los niveles y dan cuenta de las metas a las que hay que llegar para culminar con éxito, por lo que se convierten en la brújula con la cual se orientan las actividades de gestión, el seguimiento y la evaluación. También dan medida del desempeño y alertan sobre situaciones atípicas. Si los indicadores se encuentran bien formulados, aseguran una buena gestión del proyecto y aportan los elementos necesarios para la toma correcta de decisiones gerenciales que seguramente serán necesarias en el transcurso de la ejecución. Un resultado puede ser medido por varios indicadores, pero el principio de eficiencia nos orienta hacia la construcción del mínimo necesario para la conclusión del logro de los objetivos (Ortegón et.al 2005).
 
     .row.align-items-center.p-3.my-5
       .col-lg-12
@@ -600,11 +621,13 @@
     .fondo-degradado-4
       .row.align-items-center
         .col-lg-8
-          .row.mt-5.mb-4.align-items-center
-            .col-auto
-              img(src='@/assets/curso/temas/tema2/img3.svg', alt='Imagen decorativa')
-            .col.px-0
-              h3.mb-0(data-aos="fade-left") Comprobación lógica de la MML
+          .row.mt-5.mb-2.align-items-center
+            //- Subtitulo
+            .align-items-center.justify-content-star
+              .div(data-aos="fade-left")
+                h3.subtitle.position-relative Comprobación lógica de la MML
+                  img.image(src='@/assets/curso/temas/tema2/icon_subt.svg', alt='Imagen decorativa')
+          
           p Finalmente para efectos de la comprobación de la lógica de la <strong>MML</strong>, se debe revisar la coherencia de los vínculos causales de abajo hacia arriba de la matriz (<strong>actividades-componentes-objetivos-fin</strong>) esto es la lógica vertical, con al menos tres criterios que rezan como sigue:
           ol.lista-ol
             li 

@@ -20,7 +20,7 @@
       h2(data-aos="fade-left") 2.1 Análisis del contexto en torno a la problemática de la ruralidad
 
     
-    .row.my-3.align-items-center 
+    .row.my-3
       .col-lg-8.mb-4(data-aos="zoom-in-right")
         p La revisión de modelos teóricos y visiones del desarrollo rural seguramente proporcionarán las bases para la ubicación adecuada del equipo formulador del proyecto en el tiempo y el lugar de la intervención. Una inmersión más o menos profunda en las perspectivas académicas dará el sustento conceptual que, junto al contraste con la realidad de la ruralidad colombiana, conforman un andamiaje que contribuirá a la estructura del proyecto. Aunque pueda verse complejo, existen muchas fuentes de conocimiento además de los densos documentos teóricos sobre el desarrollo rural colombiano o de Latinoamérica, como los trabajos de <strong>Absalón Machado</strong> o tan simples, pero suficientemente acertados como los aportes de <strong>Ligorio Dussan</strong>, sin lugar a dudas una autoridad conocedora del campo colombiano desde su propia experiencia, mayormente nutrida en su trasegar por la <strong>Federación Nacional de Cafeteros de Colombia</strong>.
         .div.grad1
@@ -43,7 +43,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido
       h2(data-aos="fade-left") 2.2 Análisis de información secundaria
 
-    .row.my-3.align-items-center 
+    .row.my-3
       .col-lg-4.mb-3.col-md-8.mx-auto
         figure(data-aos="slide-down")
           img(data-aos="zoom-in-left",src="@/assets/curso/temas/tema2/img16.png", alt="Imagen decorativa")
@@ -450,9 +450,9 @@
     .row.mb-5
       .col-12 
         .fondo-degradado-2.p-4
-          p.my-4.text-center.text-bold La información de primera mano es muy valiosa y requiere de un recurso metodológico que puede ser el DRP.
+          p.my-4.text-bold La información de primera mano es muy valiosa y requiere de un recurso metodológico que puede ser el DRP.
 
-          .row.align-items-center.my-3
+          .row.my-3
             .col-lg-6
               p(data-aos="zoom-in-right") Existen otras metodologías, por ejemplo la propuesta hecha por Orlando Fals Borda en 1977, denominada <strong>“Investigación-Acción-Participación” (IAP)</strong>, que centraliza la persona y no el objeto de la investigación. Otras metodologías pueden enfocarse a grupos pequeños como los familiares, es el caso de la Planificación Predial Participativa (PPP) o a organizaciones y empresas rurales como el <strong>“Índice de Capacidades Organizacionales de la Unión Europea” (ICO)</strong> y la <strong>“Medición del Emprendimiento Rural” (MER)</strong> de la FAO que incorporan todas las distintas áreas que componen una organización formal.
             .col-lg-6
@@ -524,7 +524,7 @@
 
     h5.my-5.text-center De acuerdo con Silva y Sandoval (2012) la construcción de la matriz de Vester para la priorización de problemas se detalla en los siguientes pasos:
 
-    LineaTiempoD.color-primario.my-4
+    LineaTiempoD.color-primario.my-4.mb-5
       .row(numero="1" titulo="Paso 1" )
         p Redactar, ordenar y numerar los problemas detectados en el diagnóstico. (La numeración ayudará a identificarlos fácilmente).
       .row(numero="2" titulo="Paso 2")
@@ -959,17 +959,19 @@
                   td(colspan="2" style="text-align: center;") Influencia
           figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de Silva y Sandoval (2012).
 
-    .row.my-5.align-items-center.p-4(style="background: #FFF6DE")
+    .bg-full-width.row.align-items-center(style="background: #FFF6DE")
       .col-lg-4
         p En el ejemplo del punto cuatro, <strong>el problema uno se encuentra en el cuadrante dos de los problemas críticos y al estar aislado nos da la certeza de ser el problema central.</strong> En caso de que exista más de un problema en este cuadrante, podemos suponer que el problema central estará más alejado de la intersección del plano.
-      .col-lg-8
-            .titulo-sexto.color-acento-contenido.mb-3
-                  h5 Figura 4.
-                  span <em>Ejemplo de la forma gráfica de la matriz ID</em>
-            figure
-              img(src="@/assets/curso/temas/tema2/img10.svg", alt="Muestra el componente formativo un ejemplo de la forma gráfica de la matriz ID. Tomado de Silva y Sandoval. Teniendo en cuenta su dependencia e influencia.")
-              figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de Silva y Sandoval (2012).
+      .col-lg-8.p-2.my-3
+        .titulo-sexto.color-acento-contenido.mb-3
+              h5 Figura 4.
+              span <em>Ejemplo de la forma gráfica de la matriz ID</em>
+        figure
+          img(src="@/assets/curso/temas/tema2/img10.svg", alt="Muestra el componente formativo un ejemplo de la forma gráfica de la matriz ID. Tomado de Silva y Sandoval. Teniendo en cuenta su dependencia e influencia.")
+          figcaption.my-3.text-regular <strong>Nota.</strong> Tomado de Silva y Sandoval (2012).
+
     Separador
+
     #t_2_7.titulo-segundo.color-acento-contenido
       h2(data-aos="fade-left") 2.7 Análisis causa-efecto a través de la "metodología de árboles"
 
@@ -981,17 +983,18 @@
         .cajon.color-secundario.p-4(data-aos="slide-down",style="background: #F6FCFA")
           p.mt-0 El problema central ya definido anteriormente es el <strong>punto de partida del análisis a efectuar con la herramienta de árboles</strong>, aunque existan otras herramientas de análisis causa-efecto como el método del <strong>“diagrama de flechas” (ADM)</strong> el <strong>“método de la ruta crítica” (CPM)</strong> el <strong>“método del diagrama de precedencias” (PDM) “la técnica de revisión y evaluación de programas” (PERT)</strong> que son métodos complejos usados sobre todo en análisis en el contexto de la industria; además, hay otros más amigables como pueden ser el <strong>“diagrama de Pareto”</strong> o el <strong>“diagrama de Ishikawa” (espina de pescado)</strong>; de todos estos el <strong>“método de árboles”</strong> es el que resulta, en efecto, más conveniente para su aplicación en el EML. 
       
-    .row.my-4
+    .row.my-4.mb-4
       .col-lg-6
         p(data-aos="zoom-in-right") Es importante tener en cuenta que <strong>no hay un problema central definitivo o absoluto</strong> sino que depende de las capacidades y recursos del proyecto. A mayor capacidad de acción, mayor es el reto que se puede asumir y más complejo puede ser el problema central. Lo anterior significa que <strong>no existe una manera única de abordar una problemática</strong> y por tanto, existen <strong>varias formas de solucionarla, distintos niveles en los que se puede actuar y un espectro más o menos amplio en la cobertura o alcance del proyecto.</strong> Precisamente, una bondad del <strong>EML</strong> radica en tener claridad a través de este análisis de cómo resulta más efectiva una intervención; esto es más eficaz y más eficiente en relación siempre a la capacidad de solucionarlo.
       .col-lg-6
         p(data-aos="zoom-in-right") También podemos resumir este aporte del método a <strong>una mejor manera de organizar la información</strong> obtenida en un momento dado para lograr orientar de manera efectiva los recursos y esfuerzos hacia un objetivo claro que nos permita obtener el mayor beneficio e impacto posibles. El árbol de problemas es, bajo el <strong>EML</strong>, la herramienta que ayuda a identificar el problema central, pero debido a que el uso de la herramienta no es fácil de abordar desde el contexto de la ruralidad, los anteriores pasos son la forma de <strong>producir insumos de calidad</strong> (análisis de participación de actores, identificación y definición previa de problemas, etc.) para el uso adecuado de esta herramienta clave.
 
-    .row.align-items-center.my-3
-      .col-auto
-        img(src='@/assets/curso/temas/tema2/img3.svg', alt='Imagen decorativa')
-      .col.px-0
-        h3.mb-0(data-aos="zoom-in")  Árbol de problemas
+    .row.align-items-center
+      //- Subtitulo
+      .align-items-center.justify-content-star.mb-2
+        .div(data-aos="fade-left")
+          h3.subtitle.position-relative Árbol de problemas
+            img.image(src='@/assets/curso/temas/tema2/icon_subt.svg', alt='Imagen decorativa')
 
     .row.align-items-center.my-4
       .col-lg-8
@@ -1000,25 +1003,27 @@
         p El principio de causalidad es usado por casi toda disciplina científica y nos brinda unos elementos claves para el análisis de los problemas:
         ol.lista-ol--cuadro.lista-ol--separador
           li 
-            .lista-ol--cuadro__vineta(style="background: #FF8E6B; color: black")
-              span 1
+            .lista-ol--cuadro__vineta(style="background: #ADECD1; color: #12263F")
+              span <b>A</b>
             span Los problemas son en suma acciones o productos de estas; es decir, <strong>hechos.</strong>
           li(style="display: flex; align-items: flex-start;")
-            .lista-ol--cuadro__vineta(style="background: #FF8E6B; color: black")
-              span(style="min-width: 30px; text-align: right; padding-right: 10px;") 2
+            .lista-ol--cuadro__vineta(style="background: #ADECD1; color: #12263F")
+              span(style="min-width: 30px; text-align: right; padding-right: 10px;") <b>B</b>
             span Las acciones o hechos tienen una relación de precedencia (en el tiempo): si A precede a B, entonces A puede ser causa de B o B es efecto de A, teniendo como condición una proximidad en el espacio y tiempo.
-        .row.justify-content-center
-          .col-lg-9
-            .titulo-sexto.color-acento-contenido.mb-2
-              h5 Figura 5.
-              span <em>Ejemplo de causa y efecto</em>
-            figure
-              img(src="@/assets/curso/temas/tema2/img6.svg", alt="Muestra el componente formativo un ejemplo de causa y efecto, de acuerdo: Desconocimiento de las fuentes de información de precios de mercado. Capacidad limitada de negociación de bienes y*o servicios. Capacidad limitada de negociación de bienes y*o servicios.")
-              figcaption Ejemplo de causa y efecto. Bernal (2021). 
+      
       .col-lg-4.col-md-8.mx-auto
         figure
           img.my-3(src="@/assets/curso/temas/tema2/img7.png", alt="")
 
+    .row.align-items-center.my-4
+      .col-lg-9.mx-auto
+        .titulo-sexto.color-acento-contenido.mb-2
+          h5 Figura 5.
+          span <em>Ejemplo de causa y efecto</em>
+        figure
+          img(src="@/assets/curso/temas/tema2/img6.svg", alt="Muestra el componente formativo un ejemplo de causa y efecto, de acuerdo: Desconocimiento de las fuentes de información de precios de mercado. Capacidad limitada de negociación de bienes y*o servicios. Capacidad limitada de negociación de bienes y*o servicios.")
+          figcaption Ejemplo de causa y efecto. Bernal (2021). 
+      
     .row.align-items-center.my-4
       .col-lg-12.mb-3.m-auto
         .cajon.color-acento-contenido.p-4(data-aos="slide-down",style="background: #FFF6DE")
@@ -1078,18 +1083,20 @@
           p.bloque-texto-f__texto Adicionalmente, el aumento en la demanda del servicio de disposición final de residuos también ha venido representando el incremento del 15 % en la tarifa de aseo que los usuarios del sistema tienen que pagar periódicamente según estimaciones realizadas por la unidad de servicios públicos domiciliarios. También la pérdida de ingresos que de otra forma podrán generarse gracias a la posibilidad de venta de materiales recuperados según las cifras de comercialización que han sido estimadas mediante el estudio de mercado que se presenta más adelante. <strong>(DNP, 2016, p.18)</strong>.
 
 
-    .row.align-items-center.my-3
+    .row.align-items-center.my-3.mb-4
       .col-lg-10.m-auto
         .cajon.color-acento-contenido.p-4(data-aos="slide-down",style="background: #FFF6DE")
           p.mt-0  Como se puede observar, las magnitudes que hacen cuenta de factores problemáticos resultan muy útiles para dimensionar el problema y sus efectos, y más adelante serán variables susceptibles de convertirse en indicadores de gestión, tema que se abordará un poco más adelante. 
 
-    .row.mt-5.mb-4.align-items-center
-      .col-auto
-        img(src='@/assets/curso/temas/tema2/img3.svg', alt='Imagen decorativa')
-      .col.px-0
-        h3.mb-0(data-aos="zoom-in") Árbol de objetivos
+    
+    .row.mt-5.mb-2.align-items-center
+      //- Subtitulo
+      .align-items-center.justify-content-star
+        .div(data-aos="fade-left")
+          h3.subtitle.position-relative Árbol de objetivos
+            img.image(src='@/assets/curso/temas/tema2/icon_subt.svg', alt='Imagen decorativa')
 
-    .row.mt-5.mb-4.align-items-center
+    .row.mt-3.mb-4.align-items-center
       .col-lg-8
         span Bajo la misma lógica causal y al igual que en el ejercicio de árbol de problemas, 
         strong(style="color: #0B481E") en el árbol de objetivos se procede en primer lugar a redactar cada acción o hecho desde su redacción negativa a su versión opuesta positiva
@@ -1103,7 +1110,7 @@
     
     .row.align-items-center.my-3
       .col-lg-12.m-auto
-        .cajon.color-terciario.p-4(data-aos="slide-down",style="background: #EEFBF5")
+        .cajon.color-secundario.p-4(data-aos="slide-down",style="background: #EEFBF5")
           p.mt-0 Hasta aquí hablamos de la parte inferior del árbol. Los efectos directos en la parte superior del árbol corresponden con <strong>los fines últimos a los que contribuirá el proyecto.</strong> Una recomendación muy importante es que los objetivos deben ser alcanzables, no se debe plantear por ejemplo, acabar con el hambre en la región o llevar a la población hacia altos niveles de desarrollo pues estos planteamientos deben ser muy objetivos, sensatos y mesurados. En caso de ejecutarse el proyecto, serán <strong>compromisos adquiridos</strong> a los cuales debe respaldar una garantía de cumplimiento.
     
     .row.mt-5.mb-4.align-items-center
