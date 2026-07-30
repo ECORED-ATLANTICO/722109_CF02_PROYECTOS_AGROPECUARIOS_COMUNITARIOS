@@ -187,6 +187,7 @@
             p.position-relative(style="top:-30px") No siempre la selección de alternativas resulta de la manera que se ha descrito, algunas veces es más difícil identificar entre las diferentes opciones, por lo que se recomienda en este caso, la construcción de una matriz que ayude en esta evaluación; aunque no hay una forma estándar para esta y podemos encontrar varios modelos que se pueden adaptar a las necesidades del análisis buscando siempre la alternativa óptima, una selección objetiva y desde criterios múltiples.
 
     p Un ejemplo de matriz de evaluación o selección, producto de la guía para la formulación de proyectos de la FAO, en conjunto con el Ministerio de Desarrollo Agropecuario de Panamá en 2017, es el siguiente:
+    
     .titulo-sexto.color-acento-contenido.mb-3
           h5 Tabla 8.
           span Matriz de selección de alternativa óptima
@@ -446,7 +447,7 @@
     
     .row.align-items-center.p-3.my-5
       .col-lg-10.m-auto
-        h4.text-center Los indicadores se pueden clasificar en tres grupos: 
+        h4 Los indicadores se pueden clasificar en tres grupos: 
 
         LineaTiempoD.color-primario.my-4
           .row(numero="1" titulo="Indicadores de fin y propósito")
@@ -458,7 +459,7 @@
             p.px-4 a. Indicadores directos: son los que comprenden las variables directamente relacionadas con el objetivo a medir. Por ejemplo, si el objetivo es reducir la mortalidad, un indicador apropiado podría ser la tasa de mortalidad infantil expresada en por mil. 
             p.px-4 b. Indicadores indirectos: también llamados indicadores #[em proxy], son formas aproximadas de medir determinados objetivos. En ellos, la variable utilizada no tiene una relación directa con el objetivo que se busca medir (FAO, 2017).
             .row.align-items-center.p-1
-      .col-lg-10.m-auto
+      .col-lg-12.m-auto
         p Así mismo esta valiosa guía nos orienta acerca del procedimiento de selección de indicadores: 
       p Un aspecto a tener en cuenta sobre los indicadores es su número reducido. Esto hace necesario definir criterios para decidir si un indicador es adecuado o no y jerarquizar un conjunto de indicadores. Para ello se utiliza el esquema desarrollado por la Oficina de Evaluación del Programa de las Naciones Unidas para el Desarrollo (PNUD, por sus siglas en español) que consiste en un cuadro en el cual, primero, se transcribe la primera columna de la matriz de marco lógico a la primera columna del cuadro (el resumen narrativo de objetivos); después, se transcriben de la misma matriz los indicadores por objetivo y, por último, se definen los criterios aplicables a los indicadores, como:
     .row.p-3.my-5
