@@ -56,9 +56,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de la interpretación de las causas y el funcionamiento y objetivos del árbol del problema.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la temática del arbol del problema y su funcionamiento.',
         },
         {
           id: 2,
@@ -89,9 +89,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de la interpretación de las causas y el funcionamiento y objetivos del árbol del problema.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la temática del arbol del problema y su funcionamiento.',
         },
         {
           id: 3,
@@ -122,9 +122,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de la interpretación de las causas y el funcionamiento y objetivos del árbol del problema.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la temática del arbol del problema y su funcionamiento.',
         },
         {
           id: 4,
@@ -156,9 +156,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de la interpretación de las causas y el funcionamiento y objetivos del árbol del problema.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la temática del arbol del problema y su funcionamiento.',
         },
         {
           id: 5,
@@ -190,9 +190,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de la interpretación de las causas y el funcionamiento y objetivos del árbol del problema.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la temática del arbol del problema y su funcionamiento.',
         },
         {
           id: 6,
@@ -223,9 +223,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de la interpretación de las causas y el funcionamiento y objetivos del árbol del problema.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la temática del arbol del problema y su funcionamiento.',
         },
         {
           id: 7,
@@ -256,9 +256,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de la interpretación de las causas y el funcionamiento y objetivos del árbol del problema.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la temática del arbol del problema y su funcionamiento.',
         },
         {
           id: 8,
@@ -289,9 +289,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de la interpretación de las causas y el funcionamiento y objetivos del árbol del problema.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la temática del arbol del problema y su funcionamiento.',
         },
         {
           id: 9,
@@ -322,9 +322,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de la interpretación de las causas y el funcionamiento y objetivos del árbol del problema.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la temática del arbol del problema y su funcionamiento.',
         },
         {
           id: 10,
@@ -355,9 +355,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de la interpretación de las causas y el funcionamiento y objetivos del árbol del problema.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la temática del arbol del problema y su funcionamiento.',
         },
         {
           id: 11,
@@ -388,9 +388,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de la interpretación de las causas y el funcionamiento y objetivos del árbol del problema.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la temática del arbol del problema y su funcionamiento.',
         },
         {
           id: 12,
@@ -453,9 +453,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de la interpretación de las causas y el funcionamiento y objetivos del árbol del problema.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la temática del arbol del problema y su funcionamiento.',
         },
         {
           id: 14,
@@ -486,9 +486,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de la interpretación de las causas y el funcionamiento y objetivos del árbol del problema.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la temática del arbol del problema y su funcionamiento.',
         },
         {
           id: 15,
@@ -519,9 +519,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de la interpretación de las causas y el funcionamiento y objetivos del árbol del problema.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la temática del arbol del problema y su funcionamiento.',
         },
         {
           id: 16,
@@ -551,9 +551,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de la interpretación de las causas y el funcionamiento y objetivos del árbol del problema.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la temática del arbol del problema y su funcionamiento.',
         },
         {
           id: 17,
@@ -584,9 +584,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de la interpretación de las causas y el funcionamiento y objetivos del árbol del problema.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la temática del arbol del problema y su funcionamiento.',
         },
         {
           id: 18,
@@ -617,9 +617,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de la interpretación de las causas y el funcionamiento y objetivos del árbol del problema.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la temática del arbol del problema y su funcionamiento.',
         },
         {
           id: 19,
@@ -650,9 +650,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de la interpretación de las causas y el funcionamiento y objetivos del árbol del problema.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la temática del arbol del problema y su funcionamiento.',
         },
         {
           id: 20,
@@ -684,9 +684,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de la interpretación de las causas y el funcionamiento y objetivos del árbol del problema.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la temática del arbol del problema y su funcionamiento.',
         },
       ],
       mensaje_final_aprobado:
